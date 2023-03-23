@@ -81,9 +81,7 @@ const Home = () => {
               idx={22}
             />
           </h1>
-          <h2>As a Full-Stack Software Engineer, I bring to the table a strong background in team skills, analytics and problem-solving. After earning a degree in Communications from Boston College, I decided to further expand my skillset by enrolling in General Assembly's Software Engineering Immersive program. Upon completing an intensive 420-hour curriculum, I am now equipped to tackle real-world challenges while continuing to grow as a developer.</h2>
-
-          <h2> I am passionate about collaborating with a team to create innovative projects and overcome complex challenges together. With a unique blend of skills and a keen eye for detail, I am excited to contribute to the success of any development team.</h2>
+          <h2>As a Full-Stack Software Engineer, I leverage my strong background in team skills, analytics, and problem-solving, gained from a Communications degree at Boston College and an intensive 420-hour curriculum at General Assembly's Software Engineering Immersive program. Passionate about collaborating with teams to create innovative projects and tackle complex challenges, I bring a unique blend of skills and a keen eye for detail, eager to contribute to the success of any development team.</h2>
 
           <h4>Skills</h4>
           <h2>JAVASCRIPT | PYTHON | REACT | SQL | AWS | JQUERY | NODE.JS | CSS | HTML | EXPRESS | MONGODB | POSTGRESQL | DJANGO | JSON WEB TOKENS | OAUTH | MAPBOX | BOOTSTRAP | GOOGLE APIS | GIT | HEROKU | SALESFORCE | TRELLO</h2>
